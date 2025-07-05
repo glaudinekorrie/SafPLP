@@ -10,4 +10,4 @@ This project models a relational database for managing student information in a 
 - Assigning instructors to courses  
 - Tracking grades
 
-![ERD Diagram](asset/Screenshot 2025-07-05 033525.png)
+![ERD Diagram](Screenshot 2025-07-05 033525.png)
