@@ -1,6 +1,6 @@
 ## Student Records Management System
 
-## Description  
+ Description  
 This project models a relational database for managing student information in a school or university. It includes tables for students, courses, instructors, and enrollments. The system supports:
 
 - Storing student details  
