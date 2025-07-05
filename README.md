@@ -9,3 +9,5 @@ This project models a relational database for managing student information in a 
 - Assigning students to multiple courses  
 - Assigning instructors to courses  
 - Tracking grades
+
+![ERD Diagram](student_records.sql)
