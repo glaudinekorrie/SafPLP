@@ -12,9 +12,7 @@ This project models a relational database for managing student information in a 
 
 1. Clone the repo:  
    git clone https://github.com/glaudinekorrie/SafPLP
-
 2. Open MySQL Workbench or preferred SQL editor
-
 3. Run the student_records.sql file
 
 ## ERD Diagram
